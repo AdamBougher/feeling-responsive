@@ -1,31 +1,17 @@
-# ASCII-Font › http://patorjk.com/software/taag/#p=display&f=Slant&t=Phlow
-#
-#      _____ _ __          _____      __  __  _
-#     / ___/(_) /____     / ___/___  / /_/ /_(_)___  ____ ______
-#     \__ \/ / __/ _ \    \__ \/ _ \/ __/ __/ / __ \/ __ `/ ___/
-#    ___/ / / /_/  __/   ___/ /  __/ /_/ /_/ / / / / /_/ (__  )
-#   /____/_/\__/\___/   /____/\___/\__/\__/_/_/ /_/\__, /____/
-#                                                 /____/
-#
-# Title of your website
+# Site
+name: '71North'
 title: 'NIU Office of innovation @ 71 North'
-
-# The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'Come Create with us!'
-
-# The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: 'An incubator, coworking facility, and meeting venue, we provide community members the opportunity to explore collaborative innovation together.'
-
+logo: 'assets/img/logo.png'
+favicon: 'assets/images/favicon.ico'
+baseurl: ''
+slogan: 'Come Create with us!'
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
 author: Adam Bougher
-
-# This URL is the main address for absolute links. Don't include a slash at the end.
-#
-baseurl: '/'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
@@ -38,10 +24,6 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
 urlimg: '/assets/img/'
-
-
-# Logo size is 600x80 pixels
-logo: "logo.png"
 
 # Plugins
 plugins:
