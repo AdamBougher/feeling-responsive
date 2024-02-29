@@ -4,7 +4,7 @@ title: 'NIU Office of innovation @ 71 North'
 description: 'An incubator, coworking facility, and meeting venue, we provide community members the opportunity to explore collaborative innovation together.'
 logo: 'assets/img/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: ''
+baseurl: '/'
 slogan: 'Come Create with us!'
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
