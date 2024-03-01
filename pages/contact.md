@@ -3,7 +3,13 @@ layout              : page
 title               : "Contact"
 meta_title          : "Contact and use our contact form"
 subheadline         : "Contact Form"
-teaser              : "Get in touch with me? Use the contact form."
+teaser              : "Need to get a hold of us?"
 permalink           : "/contact/"
 ---
-If you need a fabulous contact form for your website, I suggest you use the free version of [Wufoo](http://www.wufoo.com/)
+General email Innovation@niu.edu <br>
+
+Karinne Bredberg, Director - kbredberg@niu.edu <br>
+
+Bryan Flower, Assistant Director for Food Systems - bflower@niu.edu <br>
+
+Mark Hankins - Assistant Director for Technology Transfer - mhankins1@niu.edu <br>

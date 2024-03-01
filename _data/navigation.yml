@@ -6,15 +6,23 @@
   url: "/Projects/"
   side: left
   dropdown:
-  - title: ""
-    url: ""
+  - title: "IGDO"
+    url: "/project/Indi-Game-Developers-Orginzation"
+  - title: "Girls Who Code"
+    url: "/project/GirlsWhoCode/"
+  - title: "Husky Hackers"
+    url: "/project/Husky-Hackers/"
 
 - title: "Team Members"
   url: "/Team/"
   side: left
   dropdown:
-  - title: ""
-    url: ""  
+  - title: "Director - Karinne-Bredberg"
+    url: "/teammember/Karinne-Bredberg/"
+  - title: "Assistant Director for Technology Transfer - Mark Hankins"
+    url: "/teammember/Mark-Hankins/"
+  - title: "Assistant Director for Food Systems Innovation - Bryan Flower"
+    url: "/teammember/Bryan-Flower/"
 
 - title: "Products"
   url: "/products/"

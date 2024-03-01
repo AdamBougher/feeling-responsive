@@ -2,8 +2,8 @@
 name: '71North'
 title: 'NIU Office of innovation @ 71 North'
 description: 'An incubator, coworking facility, and meeting venue, we provide community members the opportunity to explore collaborative innovation together.'
-logo: 'assets/img/logo.png'
-favicon: 'assets/images/favicon.ico'
+logo: 'logo.png'
+favicon: 'favicon.ico'
 baseurl: ''
 slogan: 'Come Create with us!'
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
